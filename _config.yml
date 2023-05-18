@@ -41,7 +41,7 @@ plainwhite:
     #gitlab: jekyll
     email: fynnzhou@outlook.com
 
-    Mastodon instances
+    # Mastodon instances
     mastodon:
     - username: jekyll
       instance: example.com
